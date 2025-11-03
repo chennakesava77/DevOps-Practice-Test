@@ -1,0 +1,5 @@
+[Mon, Nov  3, 2025  2:19:23 PM] INFO: Starting backup from /c/Users/user/test_source to /c/Users/user/test_backups
+[Mon, Nov  3, 2025  2:19:23 PM] SUCCESS: Backup created: /c/Users/user/test_backups/backup-2025-11-03-1419.tar.gz
+[Mon, Nov  3, 2025  2:19:23 PM] INFO: Checksum created at /c/Users/user/test_backups/backup-2025-11-03-1419.tar.gz.md5
+[Mon, Nov  3, 2025  2:19:23 PM] SUCCESS: Checksum verified successfully
+[Mon, Nov  3, 2025  2:19:23 PM] INFO: Backup completed

@@ -1,0 +1,33 @@
+[Mon Nov  3 06:55:00 UTC 2025] Starting backup for /home/kesava/test_data
+[Mon Nov  3 06:55:00 UTC 2025] Backup created: /home/kesava/backups/backup-2025-11-03-0655.tar.gz
+[Mon Nov  3 06:57:31 UTC 2025] Restoring /home/kesava/backups/backup-2025-11-03-0655.tar.gz to /home/kesava/restored_files
+[Mon Nov  3 06:57:31 UTC 2025] Restore successful to /home/kesava/restored_files
+[Mon Nov  3 06:57:38 UTC 2025] Starting backup for --dry-run
+[Mon Nov  3 06:57:38 UTC 2025] ERROR: Source directory --dry-run does not exist.
+[Mon Nov  3 06:58:52 UTC 2025] Starting backup for --dry-run
+[Mon Nov  3 06:58:52 UTC 2025] ERROR: Source directory --dry-run does not exist.
+[Mon Nov  3 06:59:53 UTC 2025] Starting backup for /home/kesava/test_data
+[Mon Nov  3 06:59:53 UTC 2025] Backup created: /home/kesava/backups/backup-2025-11-03-0659.tar.gz
+[Mon Nov  3 07:00:05 UTC 2025] Starting backup for --dry-run
+[Mon Nov  3 07:00:05 UTC 2025] ERROR: Source directory --dry-run does not exist.
+[Mon Nov  3 07:00:20 UTC 2025] Restoring /home/kesava/backups/backup-2025-11-03-0655.tar.gz to /home/kesava/restored_files
+[Mon Nov  3 07:00:20 UTC 2025] Restore successful to /home/kesava/restored_files
+[Mon Nov  3 07:03:32 UTC 2025] Starting backup for /home/kesava/test_data
+[Mon Nov  3 07:03:32 UTC 2025] Backup created: /home/kesava/backups/backup-2025-11-03-0703.tar.gz
+[Mon Nov  3 07:03:43 UTC 2025] Starting backup for --dry-run
+[Mon Nov  3 07:03:44 UTC 2025] ERROR: Source directory --dry-run does not exist.
+[Mon Nov  3 07:05:10 UTC 2025] Starting backup for --dry-run
+[Mon Nov  3 07:05:10 UTC 2025] ERROR: Source directory --dry-run does not exist.
+[Mon Nov  3 07:06:16 UTC 2025] Starting backup for /home/kesava/test_data
+[Mon Nov  3 07:06:17 UTC 2025] Backup created: /home/kesava/backups/backup-2025-11-03-0706.tar.gz
+[Mon Nov  3 07:06:28 UTC 2025] Starting backup for --dry-run
+[Mon Nov  3 07:06:28 UTC 2025] ERROR: Source directory --dry-run does not exist.
+[Mon Nov  3 07:06:51 UTC 2025] Restoring /home/kesava/backups/backup-2025-11-03-0655.tar.gz to /home/kesava/restored_files
+[Mon Nov  3 07:06:51 UTC 2025] Restore successful to /home/kesava/restored_files
+[Mon Nov  3 07:07:01 UTC 2025] Listing backups in /home/kesava/backups
+[Mon Nov  3 07:10:53 UTC 2025] Dry run enabled
+[Mon Nov  3 07:10:53 UTC 2025] DRY-RUN: Would back up /home/kesava/test_data → /backup-2025-11-03-0710.tar.gz
+[Mon Nov  3 07:10:53 UTC 2025] Backup process completed.
+[Mon Nov  3 07:13:11 UTC 2025] Dry run enabled
+[Mon Nov  3 07:13:11 UTC 2025] DRY-RUN: Would back up /home/kesava/test_data → /home/kesava/backups/backup-2025-11-03-0713.tar.gz
+[Mon Nov  3 07:13:11 UTC 2025] Backup process completed.
