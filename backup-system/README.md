@@ -10,7 +10,7 @@ It securely backs up files and directories, creates timestamped compressed archi
  **Developer & Automation Engineer**
 
  **Kesava**, designed and implemented this backup automation system using Bash scripting.  
-Your role included:
+my role included:
 - Writing and debugging the backup logic  
 - Structuring configuration and logging  
 - Ensuring the script supports cron-based automation  
@@ -55,7 +55,7 @@ Copy code
 
 ##  Configuration File – `backup.config`
 
-You can modify paths and settings without editing the main script.
+i can modify paths and settings without editing the main script.
 
 **Example configuration:**
 ```bash
@@ -107,7 +107,7 @@ Destination: /mnt/backups
 Backup file created: backup_2025-11-03_14-20-32.tar.gz
 Backup completed successfully.
  Automating Backups (Cron Jobs)
-You can schedule automatic backups using crontab.
+i can schedule automatic backups using crontab.
 
 Open the crontab editor:
 
@@ -155,9 +155,9 @@ Integrates with CI/CD or cron jobs
  Author Information
 Author: Kesava
 GitHub: chennakesava77
-Role: Developer & Automation Engineer
+Role: Associate Engineer
 
-(Email optional)
+Email: chennakesavareddy.boreddy@gmail.com
 
  License
 This project is released under the MIT License.
